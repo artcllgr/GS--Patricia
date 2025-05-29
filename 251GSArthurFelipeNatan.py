@@ -1,3 +1,6 @@
+#Arthur Callegari - 565476
+#Felipe Franca - 566393
+#Natan Mestre - 565552
 
 tipos_desastres = []
 paises = []
